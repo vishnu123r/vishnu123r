@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ramanah Visnupriyan</h1>
-<h3 align="center">Data analysis | Backend | Chemometrics</h3>
+<h3 align="center">Data analysis | Backend | Chemometrics (Chemical data science)</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/46/82/bb/4682bbd9cb39c080de5442a1d7614d80.gif">
 
 
