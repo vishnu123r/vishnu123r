@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **HTML/ CSS**
 
-- 💬 Ask me about **Python, R, Dash**
+- 💬 Ask me about **Python, R, Dash, Tableau**
 
 - 📫 How to reach me **vishnu123r@gmail.com**
 
