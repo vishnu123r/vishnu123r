@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [End to End machine learning project](https://github.com/vishnu123r/end-to-end-ml)
 
-- 🌱 I’m currently learning **HTML/ CSS**
+- 🌱 I’m currently learning **CICD/ DevOps**
 
-- 💬 Ask me about **Python, R, Dash, Tableau**
+- 💬 Ask me about **Python, R, Dash**
 
 - 📫 How to reach me **vishnu123r@gmail.com**
 
