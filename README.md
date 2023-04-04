@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **CICD/ DevOps**
 
-- 💬 Ask me about **Python, R, Dash**
+- 💬 Ask me about **Python, R, Dash, Flask**
 
 - 📫 How to reach me **visnupriyan.r@gmail.com**
 
