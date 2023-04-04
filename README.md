@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/vishnu_ramanah" target="blank"><img src="https://img.shields.io/twitter/follow/vishnu_ramanah?logo=twitter&style=for-the-badge" alt="vishnu_ramanah" /></a> </p>
 
-- 🔭 I’m currently working on [End to End machine learning project](https://github.com/vishnu123r/end-to-end-ml)
+- 🔭 I’m currently working on [End to End machine learning project](https://github.com/vishnu123r/end-to-end-ml), [Dash app for personal time management](https://github.com/vishnu123r/toggl-time-visual)
 
 - 🌱 I’m currently learning **CICD/ DevOps**
 
