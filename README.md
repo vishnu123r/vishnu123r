@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python, R, Dash**
 
-- 📫 How to reach me **vishnu123r@gmail.com**
+- 📫 How to reach me **visnupriyan.r@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
